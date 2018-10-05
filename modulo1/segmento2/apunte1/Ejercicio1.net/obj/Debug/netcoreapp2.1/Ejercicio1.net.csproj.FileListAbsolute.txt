@@ -1,0 +1,11 @@
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.csprojAssemblyReference.cache
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.csproj.CoreCompileInputs.cache
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.AssemblyInfoInputs.cache
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.AssemblyInfo.cs
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.deps.json
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.runtimeconfig.json
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.runtimeconfig.dev.json
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.dll
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/bin/Debug/netcoreapp2.1/Ejercicio1.net.pdb
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.dll
+/home/alin/ITEDES/modulo1/segmento2/apunte1/Ejercicio1.net/obj/Debug/netcoreapp2.1/Ejercicio1.net.pdb
